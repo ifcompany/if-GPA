@@ -4,8 +4,8 @@
 <br />
 <h2><a href="https://ifcompany.ir/apps/Python">link if</a></h2>
 <br />
-    A program to get average numbers easily
-    Enter the numbers one after the other and then send ( = )
+    A program to get average numbers easily<br />
+    Enter the numbers one after the other and then send ( = )<br />
     Bingo, it was calculated
 <br />
 <h1>Prerequisites</h1>

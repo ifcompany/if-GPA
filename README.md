@@ -1,4 +1,4 @@
-<h1>if GPAr</h1>
+<h1>if GPA</h1>
 <br />
 <img src="logp.gif"/>
 <br />
